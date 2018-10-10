@@ -15,4 +15,4 @@ Preset 1
 Square - (like Games from 90x)
 Delayed Lead + Sonitus Modulator (space)
 Taisho Koto + Sonitus Modulator (space)
-Costanet + Sonitus Modulator (like intersections)
+Costanet + Sonitus Modulator (like intersections)s
